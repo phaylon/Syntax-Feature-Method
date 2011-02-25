@@ -1,5 +1,6 @@
 
 {{$NEXT}}
+    - Fixed dist.init BuildRequires.
 
 0.001     2010-08-10 04:43:11 Europe/Berlin
     - Initial release.
